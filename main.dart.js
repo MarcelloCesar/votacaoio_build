@@ -78157,9 +78157,9 @@ while(true)switch(s){case 0:n=$.alx().a
 n===$&&A.a()
 p=t.z
 s=2
-return A.N(n.Sr("https://w15omdj2ji.execute-api.sa-east-1.amazonaws.com/dev/votacao/voto",A.ax(["idVotacao","0d186fb0-48bc-47e1-a573-4312e994ccca","idsParticipantes",q.y],t.N,t.K),p),$async$qK)
+return A.N(n.Sr("https://w15omdj2ji.execute-api.sa-east-1.amazonaws.com/dev/votacao/voto",A.ax(["idVotacao","8abc4ae0-8960-472b-95fa-0020e24bbea6","idsParticipantes",q.y],t.N,t.K),p),$async$qK)
 case 2:s=3
-return A.N(n.Gt(0,"https://w15omdj2ji.execute-api.sa-east-1.amazonaws.com/dev/votacao/0d186fb0-48bc-47e1-a573-4312e994ccca/resultado",p),$async$qK)
+return A.N(n.Gt(0,"https://w15omdj2ji.execute-api.sa-east-1.amazonaws.com/dev/votacao/8abc4ae0-8960-472b-95fa-0020e24bbea6/resultado",p),$async$qK)
 case 3:o=b
 $.pP().S4("/resumo_votacao",o.a)
 return A.I(null,r)}})
@@ -78173,7 +78173,7 @@ while(true)switch(s){case 0:p=$.alx().a
 p===$&&A.a()
 o=A
 s=2
-return A.N(p.Gt(0,"https://w15omdj2ji.execute-api.sa-east-1.amazonaws.com/dev/votacao/0d186fb0-48bc-47e1-a573-4312e994ccca",t.z),$async$ux)
+return A.N(p.Gt(0,"https://w15omdj2ji.execute-api.sa-east-1.amazonaws.com/dev/votacao/8abc4ae0-8960-472b-95fa-0020e24bbea6",t.z),$async$ux)
 case 2:q.ah(new o.ajt(q,b))
 return A.I(null,r)}})
 return A.J($async$ux,r)}}
