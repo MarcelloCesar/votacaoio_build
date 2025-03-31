@@ -93806,7 +93806,7 @@ h.rH(new A.AQ(new A.a2M(this),s,!1,0.5625,i,i,i,i,i,r.to.e,!0,!0,i,i,i,!1,i,"Clo
 yV(a,b,c){var s=null
 return new A.MD(A.ft(a,s,s,s,A.it(s,s,s,s,s,s,s,s,s,s,s,18,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s,s),new A.a2K(),s)}}
 A.a2O.prototype={
-$2(a,b){var s="/teste",r=null,q=t.D,p=A.b([B.uG,A.aBE("logotipo.png",60),B.OH],q),o=this.a
+$2(a,b){var s="/teste",r=null,q=t.D,p=A.b([B.uG,A.aBE("assets/logotipo.png",60),B.OH],q),o=this.a
 if(!(b.b<600))B.b.W(p,A.b([o.qh("Home","/home",a),o.qh("Bolhas","/login",a),o.qh("Epis\xf3dios","/logout",a),o.qh("Inscri\xe7\xe3o",s,a),o.qh("Equipe",s,a),o.qh("Vota\xe7\xe3o",s,a)],q))
 else B.b.W(p,A.b([A.axa(r,r,B.F9,r,r,new A.a2N(o,a),r,r,r)],q))
 q=A.OD(p,B.aF,B.aH,B.bk)
@@ -94030,7 +94030,7 @@ aO(){this.ba()
 this.yt()},
 R(a){var s,r,q,p,o,n=this,m=null
 if(J.hM(n.x))s=B.mu
-else{s=A.aDc(B.AJ,A.aBE("banner.png",m),new A.atv())
+else{s=A.aDc(B.AJ,A.aBE("assets/banner.png",m),new A.atv())
 r=t.w
 q=A.bA(a,m,r).w
 r=A.bA(a,m,r).w
